@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Exploring a Next-Generation Firewall"
+---
+
+Exploring a Next-Generation Firewall with OPNsense and ZenArmor.
 
 # Project: Exploring a Next-Generation Firewall with OPNsense and ZenArmor
 
