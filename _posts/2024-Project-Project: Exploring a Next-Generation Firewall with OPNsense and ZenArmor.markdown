@@ -1,15 +1,15 @@
 ---
-title: "Project: Exploring a Next-Generation Firewall with OPNsense and ZenArmor"
+title: "Indigo, minimalist jekyll theme"
 layout: post
-date: 2023
-tag: project
+date: 2016-01-23 22:10
+tag: jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: false
+headerImage: true
 projects: true
 hidden: false
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
-author: christopher
+author: johndoe
 externalLink: false
 ---
 
