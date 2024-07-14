@@ -1,25 +1,16 @@
----
-layout: page
-title: Projects
----
-<section class="list">
-    {% for post in site.posts %}
-        {% if post.projects %}
-            {% if post.hidden != true %}
-                <div class="item {% if post.star %}star{% endif %}">
-                    <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                        <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-                        <h3 class="title">{{ post.title }}</h3>
-                    </a>
-                </div>
-            {% endif %}
-        {% endif %}
-    {% endfor %}
-</section>
 
+project/next-gen-firewall.md
 
-	<!-- Posts NEW POSTS HERE-->
-# Projects
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Projects</title>
+</head>
+<body>
+    <h1>Projects</h1>
+    <ul>
+        <li><a href="project/next-gen-firewall.md">Exploring a Next-Generation Firewall</a></li>
 
-## [Exploring a Next-Generation Firewall](projects/next-gen-firewall.md)
-Exploring a Next-Generation Firewall with OPNsense and ZenArmor.
+    </ul>
+</body>
+</html>
