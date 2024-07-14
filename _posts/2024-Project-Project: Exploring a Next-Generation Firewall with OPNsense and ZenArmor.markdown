@@ -2,15 +2,15 @@
 title: "Project: Exploring a Next-Generation Firewall with OPNsense and ZenArmor"
 layout: post
 date: 2023
-image: /assets/images/markdown.jpg
+tag: project
+image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
-tag:
-- markdown
-- components
-- extra
+projects: true
+hidden: false
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
-author: Christopher
-description: testing
+author: christopher
+externalLink: false
 ---
 
 # Project: Exploring a Next-Generation Firewall with OPNsense and ZenArmor
