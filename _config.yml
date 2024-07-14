@@ -61,12 +61,9 @@ authors:
 width: normal
 
 # if you don't need projects, comment the *projects* configs below
-#projects: true
+projects: true
 
-#added from GPT
-collections:
-  projects: true
-    output: true
+
 
 
 # if you don't need "about" or "blog", comment them out below
