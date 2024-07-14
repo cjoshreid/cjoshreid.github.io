@@ -61,11 +61,11 @@ authors:
 width: normal
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 #added from GPT
 collections:
-  projects:
+  projects: true
     output: true
 
 
