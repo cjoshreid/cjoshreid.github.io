@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Exploring a Next-Generation Firewall"
-date: 2024-07-14
+title: "Project: Exploring a Next-Generation Firewall with ZenArmor"
+date: 2023-07-14
 ---
 
 Exploring a Next-Generation Firewall with OPNsense and ZenArmor.
