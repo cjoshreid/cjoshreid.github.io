@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Exploring a Next-Generation Firewall"
-date: 2023
 ---
 
 Exploring a Next-Generation Firewall with OPNsense and ZenArmor.
