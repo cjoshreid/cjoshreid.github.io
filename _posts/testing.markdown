@@ -1,22 +1,17 @@
 ---
-title: "test - Indigo, minimalist jekyll theme"
+title: "testing"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
-projects: true
-hidden: false
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+date: 2016-02-24 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
 category: project
-author: johndoe
-externalLink: false
+author: jamesfoster
+description: Markdown summary with different options
 ---
-
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
-
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
-
 ---
 
 What has inside?
