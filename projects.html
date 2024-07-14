@@ -3,15 +3,8 @@ layout: page
 title: Blog
 ---
 <section class="list">
-	{% if site.posts.size == 0 %}
-		<p class="text-center">Nothing published yet!</p>
-	{% else %}
-		{% for post in site.posts %}
-			{% if post.category == 'project' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
-			{% endif %}
+
+		{% for post in site.projects %}
 		{% endfor %}
-	{% endif %}
+	
 </section>
