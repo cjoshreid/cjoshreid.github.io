@@ -8,7 +8,7 @@ tag:
 - markdown
 - components
 - extra
-category: project
+category: projects
 author: Christopher
 description: testing
 ---
