@@ -7,7 +7,7 @@ description: A blog about technology and my cybersecurity journy
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: https://github.com/cjoshreid/cjoshreid.github.io/blob/gh-pages/assets/images/unnamed.png
 
 # your site color theme, true for dark theme, 
