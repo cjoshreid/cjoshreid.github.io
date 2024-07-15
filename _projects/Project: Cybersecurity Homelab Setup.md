@@ -84,10 +84,27 @@ Online tutorials and official documentation of tools used.
 ## Screenshots:
 
   (https://github.com/cjoshreid/cjoshreid.github.io/blob/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/setnetwork.png)
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersecurity Homelab Setup</title>
+</head>
+<body>
+    <h1>Cybersecurity Homelab Setup</h1>
+    <a href="https://example.com">
+        <img src="/assets/images/wazuh.png" alt="Wazuh" style="width:100%;">
+    </a>
+    <p>This project involves setting up a homelab for cybersecurity experiments. The network diagram above shows the architecture.</p>
+      <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/d7f2f58c923c2604b947e93cabeddbbe7ed7170e/assets/images/wazuh.png">
+</body>
+</html>
+
   
 
-  <img src="/assets/images/wazuh.png"
-  <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/d7f2f58c923c2604b947e93cabeddbbe7ed7170e/assets/images/wazuh.png">
+  <img src="/assets/images/wazuh.png">
+
   
    ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/alerts.png)
    
