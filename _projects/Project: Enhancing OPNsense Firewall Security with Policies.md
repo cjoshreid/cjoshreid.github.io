@@ -68,8 +68,8 @@ OPNsense documentation, ChatGPT, online tutorials.
 ## Screenshots:
 
 - Example of Scheduler Configuration for Ruleset Downloads
-   ![screenshot](schedule.png)
+   ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/0b611d895d27000ba7584b46adeb40b0ebd29a2c/_projects/images/schedule.png)
 - Policies Configuration in Services: Intrusion Detection: Policy
-     ![screenshot](setpolicy.png)
+     ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/0b611d895d27000ba7584b46adeb40b0ebd29a2c/_projects/images/setpolicy.png)
 - Intrusion Detection: Policy
-       ![screenshot](policy.png)
+       ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/0b611d895d27000ba7584b46adeb40b0ebd29a2c/_projects/images/policy.png)
