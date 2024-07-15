@@ -37,8 +37,8 @@ disqus:
 #facebook: myfacebook
 #twitter: mytwitter
 #instagram: myinstagram
-linkedin: https://www.linkedin.com/in/cjoshreid/
-github: https://github.com/cjoshreid
+linkedin: <a href="https://www.linkedin.com/in/cjoshreid/">
+github: <a href="https://github.com/cjoshreid'>
 #email: myemail@gmail.com
 
 authors:
