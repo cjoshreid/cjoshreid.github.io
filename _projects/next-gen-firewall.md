@@ -72,9 +72,21 @@ This project successfully tested the integration of ZenArmor with OPNsense, prov
 
 [OPNsense documentation](https://docs.opnsense.org), [ZenArmor Official Website](https://www.zenarmor.com), online tutorials, ChatGPT.
 
-### Screenshot:
 
-Installing the Plugins
-  ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/cd99e70aaa1cc7fe244ab336a96687e439becb22/_projects/images/sensei.png)
 
-  
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Screenshots</title>
+</head>
+<body>
+    <h1>Screenshots</h1>
+    <p>Installing the Plugins</p>
+    <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/cd99e70aaa1cc7fe244ab336a96687e439becb22/_projects/images/sensei.png">
+        <img src="https://raw.githubusercontent.com/cjoshreid/cjoshreid.github.io/cd99e70aaa1cc7fe244ab336a96687e439becb22/_projects/images/sensei.png" alt="Image" style="width:100%;">
+    </a>
+</body>
+</html>
+
