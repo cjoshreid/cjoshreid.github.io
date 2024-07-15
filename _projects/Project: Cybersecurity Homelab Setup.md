@@ -83,10 +83,10 @@ Online tutorials and official documentation of tools used.
 
 ## Screenshots:
 
-  ![screenshot](setnetwork.png)
+  ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/setnetwork.png)
   
-  ![screenshot](wazuh.png)
+  ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/wazuh.png)
   
-   ![screenshot](alerts.png)
+   ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/alerts.png)
    
-   ![screenshot](alerts2.png)
+   ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/alerts2.png)
