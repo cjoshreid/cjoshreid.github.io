@@ -101,7 +101,7 @@ Online tutorials, ChatGPT, and official documentation of tools used.
 
 
 
-   <html>
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -110,19 +110,19 @@ Online tutorials, ChatGPT, and official documentation of tools used.
     <h1>Screenshots</h1>
 	<p>Example Log of Suricata Custom Rules during testing</p>
     <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/alerts2.png">
-        <img src="https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/alerts2.png" style="width:100%;">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/alerts2.png" alt="Image" style="width:100%;">
     </a>
 	<p>Log of Brute Force Attack</p>
     <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/bruteforce.png">
-        <img src="https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/bruteforce.png" style="width:100%;">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/bruteforce.png" alt="Image" style="width:100%;">
     </a>
 	<p>Example Log of Login Failures during testing</p>
     <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/loginfail.png">
-        <img src="https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/loginfail.png" style="width:100%;">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/loginfail.png" alt="Image" style="width:100%;">
     </a>
 		<p>Log of Login Failures and Active Response</p>
     <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/loginfailresponse.png">
-        <img src="https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/loginfailresponse.png" style="width:100%;">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/loginfailresponse.png" alt="Image" style="width:100%;">
     </a>
 </body>
 </html>
