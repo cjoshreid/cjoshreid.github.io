@@ -69,8 +69,6 @@ This project successfully fortified the security posture of the Windows 10 machi
 ### References:
 Online tutorials, ChatGPT, Wazuh documentation, Microsoft Defender documentation.
 
-
-
 <html>
 <head>
     <meta charset="UTF-8">
@@ -78,28 +76,30 @@ Online tutorials, ChatGPT, Wazuh documentation, Microsoft Defender documentation
 </head>
 <body>
     <h1>Screenshots</h1>
-	<p>Example of Wazuh Vulnerability Detection Alerts</p>
-    <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/screen.png">
-        <img src="https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/screen.png" alt="Image" style="width:100%;">
+    <p>Example of Wazuh Vulnerability Detection Alerts</p>
+    <a href="https://github.com/cjoshreid/cjoshreid.github.io/raw/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/screen.png">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/raw/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/screen.png" alt="Image" style="width:100%;">
     </a>
-	<p>Details of CVE</p>
-    <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/example.png">
-        <img src="https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/example.png" alt="Image" style="width:100%;">
+    <p>Details of CVE</p>
+    <a href="https://github.com/cjoshreid/cjoshreid.github.io/raw/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/example.png">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/raw/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/example.png" alt="Image" style="width:100%;">
     </a>
-	<p>Updating and Patching System</p>
-    <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/update.png">
-        <img src="https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/update.png" alt="Image" style="width:100%;">
+    <p>Updating and Patching System</p>
+    <a href="https://github.com/cjoshreid/cjoshreid.github.io/raw/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/update.png">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/raw/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/update.png" alt="Image" style="width:100%;">
     </a>
-		<p>Windows Defender</p>
-    <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/security.png">
-        <img src="https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/security.png" alt="Image" style="width:100%;">
+    <p>Windows Defender</p>
+    <a href="https://github.com/cjoshreid/cjoshreid.github.io/raw/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/security.png">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/raw/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/security.png" alt="Image" style="width:100%;">
     </a>
     <p>Results of Patching CVEs using Wazuh and Windows Update</p>
-    <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/results.png">
-        <img src="https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/results.png" alt="Image" style="width:100%;">
+    <a href="https://github.com/cjoshreid/cjoshreid.github.io/raw/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/results.png">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/raw/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/results.png" alt="Image" style="width:100%;">
     </a>
-       <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/afterlist.png">
-        <img src="https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/afterlist.png" alt="Image" style="width:100%;">
+    <a href="https://github.com/cjoshreid/cjoshreid.github.io/raw/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/afterlist.png">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/raw/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/afterlist.png" alt="Image" style="width:100%;">
     </a>
 </body>
 </html>
+
+
