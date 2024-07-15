@@ -75,7 +75,6 @@ This project successfully tested the integration of ZenArmor with OPNsense, prov
 ### Screenshot:
 
 Installing the Plugins
-  ![screenshot](_projects/images/sensei.png)
-
+  ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/cd99e70aaa1cc7fe244ab336a96687e439becb22/_projects/images/sensei.png)
 
   
