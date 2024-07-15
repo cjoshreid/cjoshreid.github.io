@@ -101,10 +101,10 @@ Online tutorials, ChatGPT, and official documentation of tools used.
 
 ## Screenshots:
 Example Log of Suricata Custom Rules during testing
-  ![screenshot](alerts2.png)
+  ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/alerts2.png)
 Log of Brute Force Attack  
-  ![screenshot](bruteforce.png)
+  ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/bruteforce.png)
 Example Log of Login Failures during testing
-   ![screenshot](loginfail.png)
+   ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/loginfail.png)
 Log of Login Failures and Active Response  
-   ![screenshot](loginfailresponse.png)
+   ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/1750d6ee04a19c9c7a30d4cc77a2f850bbbf6c86/_projects/images/loginfailresponse.png)
