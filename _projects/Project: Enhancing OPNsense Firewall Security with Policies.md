@@ -65,11 +65,24 @@ This project successfully fortified the security posture of the OPNsense firewal
 
 OPNsense documentation, ChatGPT, online tutorials.
 
-## Screenshots:
-
-- Example of Scheduler Configuration for Ruleset Downloads
-   ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/0b611d895d27000ba7584b46adeb40b0ebd29a2c/_projects/images/schedule.png)
-- Policies Configuration in Services: Intrusion Detection: Policy
-     ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/0b611d895d27000ba7584b46adeb40b0ebd29a2c/_projects/images/setpolicy.png)
-- Intrusion Detection: Policy
-       ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/0b611d895d27000ba7584b46adeb40b0ebd29a2c/_projects/images/policy.png)
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Screenshots</h1>
+    <p>Example of Scheduler Configuration for Ruleset Downloads</p>
+    <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/0b611d895d27000ba7584b46adeb40b0ebd29a2c/_projects/images/schedule.png?raw=true">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/raw/0b611d895d27000ba7584b46adeb40b0ebd29a2c/_projects/images/schedule.png" alt="Image" style="width:100%;">
+    </a>
+    <p>Policies Configuration in Services: Intrusion Detection: Policy</p>
+    <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/0b611d895d27000ba7584b46adeb40b0ebd29a2c/_projects/images/setpolicy.png?raw=true">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/raw/0b611d895d27000ba7584b46adeb40b0ebd29a2c/_projects/images/setpolicy.png" alt="Image" style="width:100%;">
+    </a>
+    <p>Intrusion Detection: Policy</p>
+    <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/0b611d895d27000ba7584b46adeb40b0ebd29a2c/_projects/images/policy.png?raw=true">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/raw/0b611d895d27000ba7584b46adeb40b0ebd29a2c/_projects/images/policy.png" alt="Image" style="width:100%;">
+    </a>
+</body>
+</html>
