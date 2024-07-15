@@ -85,7 +85,9 @@ Online tutorials and official documentation of tools used.
 
   (https://github.com/cjoshreid/cjoshreid.github.io/blob/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/setnetwork.png)
   
-  ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/wazuh.png)
+  ![screenshot1](https://github.com/cjoshreid/cjoshreid.github.io/blob/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/wazuh.png)
+  ![screenshot2](assets/images/wazuh.png)
+  ![screenshot3](https://github.com/cjoshreid/cjoshreid.github.io/blob/d7f2f58c923c2604b947e93cabeddbbe7ed7170e/assets/images/wazuh.png)
   
    ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/alerts.png)
    
