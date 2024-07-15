@@ -72,19 +72,19 @@ Online tutorials, ChatGPT, Wazuh documentation, Microsoft Defender documentation
 ### Screenshots:
 
 Example of Wazuh Vulnerability Detection Alerts
-  ![screenshot](screen.png)
+  ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/screen.png)
   
 Details of CVE
-  ![screenshot](example.png)
+  ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/example.png)
   
 Updating and Patching System
 
-   ![screenshot](update.png)
+   ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/update.png)
 
 Windows Defender
 
-   ![screenshot](security.png)
+   ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/security.png)
   
 Results of Patching CVEs using Wazuh and Windows Update
-  ![screenshot](results.png)
-    ![screenshot](afterlist.png)
+  ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/results.png)
+    ![screenshot](https://github.com/cjoshreid/cjoshreid.github.io/blob/a1f77bea1f6789633e13f58576faba81847f175d/_projects/images/afterlist.png)
