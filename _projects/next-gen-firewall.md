@@ -74,7 +74,6 @@ This project successfully tested the integration of ZenArmor with OPNsense, prov
 
 
 
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
