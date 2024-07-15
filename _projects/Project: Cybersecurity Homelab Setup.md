@@ -81,22 +81,26 @@ These projects will provide practical experience across various cybersecurity do
 ## References: 
 Online tutorials and official documentation of tools used. 
 
-## Screenshots:
 
 
-  <!DOCTYPE html>
+
+
 <html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Screenshots</title>
 </head>
 <body>
     <h1>Screenshots</h1>
-      <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/d7f2f58c923c2604b947e93cabeddbbe7ed7170e/assets/images/wazuh.png">
-          <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/alerts.png">
-              <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/alerts2.png">
-          <a/>
+    <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/d7f2f58c923c2604b947e93cabeddbbe7ed7170e/assets/images/wazuh.png">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/raw/d7f2f58c923c2604b947e93cabeddbbe7ed7170e/assets/images/wazuh.png" alt="Wazuh Image" style="width:100%;">
+    </a>
+    <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/alerts.png">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/raw/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/alerts.png" alt="Alerts Image" style="width:100%;">
+    </a>
+    <a href="https://github.com/cjoshreid/cjoshreid.github.io/blob/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/alerts2.png">
+        <img src="https://github.com/cjoshreid/cjoshreid.github.io/raw/cd90699c57a8f6ad77c4a6640e15275803ad980b/_projects/images/alerts2.png" alt="Alerts2 Image" style="width:100%;">
+    </a>
 </body>
 </html>
 
